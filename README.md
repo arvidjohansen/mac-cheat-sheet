@@ -14,7 +14,7 @@ date 0424232021
 ```
 
 ## Boot keyboard combinations
-Hold down one of the following keyboard combinations immediately after you power on your mac
+### Hold down one of the following keyboard combinations immediately after you power on your mac
 
 Reinstall the latest macOS version that was installed on your mac:
 ```
