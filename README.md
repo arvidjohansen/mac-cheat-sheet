@@ -2,17 +2,6 @@
 
 Useful things for a mac
 
-## Error message during installation: UNTRUSTED_CERT_TITLE  
-Your clock is out of sync. Solution: Reset system time.  
-Open terminal and use the date command like this:
-```
-date mmddHHMMyy
-```
-Actual command for current date:
-```
-date 0424232021
-```
-
 ## Boot keyboard combinations
 ### Hold down one of the following keyboard combinations immediately after you power on your mac
 
@@ -29,6 +18,17 @@ cmd + option + r
 Install the version of macOS that came with your mac:
 ```
 cmd + option + shift + r
+```
+
+## Error message during installation: UNTRUSTED_CERT_TITLE  
+Your clock is out of sync. Solution: Reset system time.  
+Open terminal and use the date command like this:
+```
+date mmddHHMMyy
+```
+Actual command for current date:
+```
+date 0424232021
 ```
 
 ## Error message during installation: Error Occurred while Preparing the Installation
