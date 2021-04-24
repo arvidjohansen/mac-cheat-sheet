@@ -37,3 +37,13 @@ cmd + option + shift + r
 
 ## Error message during installation: Error code: 5101F
 [Fix Macbook Error 5101F](https://appletoolbox.com/fix-macbook-error-5101f/)
+
+## MacOS Release timeline:
+* 2014 - Yosemite
+* 2015 - El Capitan
+* 2016 - Sierra
+* 2017 - High Sierra
+* 2018 - Mojave
+* 2019 - Catalina
+* 2020 - Big Sur
+
