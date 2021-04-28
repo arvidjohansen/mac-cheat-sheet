@@ -2,6 +2,12 @@
 
 Useful things for a mac
 
+## Keyboard shortcuts
+1) End task / open task manager
+```sh
+cmd + option + esc
+```
+
 ## Boot keyboard combinations
 ### Hold down one of the following keyboard combinations immediately after you power on your mac
 
