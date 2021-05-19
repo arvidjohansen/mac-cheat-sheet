@@ -11,11 +11,20 @@ pipe-symbol: opt + 7
 bracket opt + 7 and 8
 curly braces opt + shift + 7 and 8
 
-|Combination|Result|Description|
+| Combination | Action | Description|
 |---|---|---|
-opt + 7|pipe|pipe-symbol
+opt + 7|pipe-symbol|pipe
 opt + 8 and 9|[]| brackets
 opt + shift + 8 and 9 | {} | curly brackets
+cmd + q | quit application | hold Q for 1 sec
+cmd + m | minimize application
+cmd + shift + 3 | screenshot
+cmd + shift + 4 | screenshot rectangular area
+shift + space | spotlight search
+F11 | show desktop
+F12 | show dashboard
+
+
 
 
 ## Boot keyboard combinations
