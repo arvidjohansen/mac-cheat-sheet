@@ -7,6 +7,16 @@ Useful things for a mac
 ```sh
 cmd + option + esc
 ```
+pipe-symbol: opt + 7
+bracket opt + 7 and 8
+curly braces opt + shift + 7 and 8
+
+|Combination|Result|Description|
+|---|---|---|
+opt + 7|pipe|pipe-symbol
+opt + 8 and 9|[]| brackets
+opt + shift + 8 and 9 | {} | curly brackets
+
 
 ## Boot keyboard combinations
 ### Hold down one of the following keyboard combinations immediately after you power on your mac
