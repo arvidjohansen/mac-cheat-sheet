@@ -15,6 +15,7 @@ curly braces opt + shift + 7 and 8
 |---|---|---|
 opt + 7|pipe-symbol|pipe
 opt + 8 and 9|[]| brackets
+opt + shift + 7 |\\ |backslash|
 opt + shift + 8 and 9 | {} | curly brackets
 cmd + q | quit application | hold Q for 1 sec
 cmd + m | minimize application
