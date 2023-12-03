@@ -2,6 +2,33 @@
 
 Useful things for a mac
 
+## Visual studio code
+
+### Run vscode from command line
+press: cmd + shift + p
+select **shell command: install code in path**, you will be prompted for password
+
+Now you can browse anywhere you want in the terminal and use the following command to open vscode directly in that folder:
+
+```open .```
+
+
+### Debug config file not found fix (Python)
+
+If you try to run a Python program that tries to open a file in the same directory, you will get a filenotfound error if running in normal debug mode (Fn+F5)
+
+But the program works if you try to run it directly from the terminal
+
+**The fix** for this is to add the following line into your `launch.json`
+
+```"cwd": "${fileDirname}"```
+
+ref: https://www.reddit.com/r/learnpython/comments/uo1bfq/shows_file_not_found_error_when_run_and_debug_in/
+
+
+
+
+
 ## Keyboard shortcuts
 1) End task / open task manager
 ```sh
